@@ -2,7 +2,7 @@
 
 “Creates a true isometric camera or a isometric camera for game needs”
 
-![](https://user-images.githubusercontent.com/69900896/236663973-13229410-5069-49b8-9f58-b8db9006e54c.png)
+![07 05 2023_15 37 49_REC](https://user-images.githubusercontent.com/69900896/236664596-6b5a5e19-4553-4d13-993c-2853ed891e6f.gif)
 
 Create Isocam creates an orthographic camera with which you can render isometric views.
 
@@ -51,7 +51,7 @@ For that the camera has a rotation 48.5 Grad, or in Blender a rotation of 41.5 G
 The button Groundplane creates a plane with a size of 10 x 10 Blender units. All three cameras are set up to fit to that groundplane.
 
 ### ****Credits****
-Initial creator, 2.8 update and bitbucket thread can be found [Blender Artist](https://blenderartists.org/t/create-isocam/603183)
+Initial creator, 2.8 update and bitbucket thread can be found [Blender Artist](https://blenderartists.org/t/create-isocam/603183) and [@jasonicarter](https://github.com/jasonicarter)
 
 
 ****Note: This addon includes an updater, which you can use to keep it up to date within Blender.****
